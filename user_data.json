@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "name": "Jack Sparrow",
+    "liked_genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "disliked_genres": [
+      "Horror"
+    ],
+    "preferred_mood": "Thought-provoking",
+    "max_runtime": 240
+  },
+  "watched_movies": [],
+  "user_ratings": {}
+}

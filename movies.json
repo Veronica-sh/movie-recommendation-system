@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Inception",
+    "genres": ["Sci-Fi", "Action", "Thriller"],
+    "runtime": 148,
+    "mood": "Thought-provoking",
+    "rating": 8.8
+  },
+  {
+    "title": "Interstellar",
+    "genres": ["Sci-Fi", "Drama", "Adventure"],
+    "runtime": 169,
+    "mood": "Thought-provoking",
+    "rating": 8.7
+  },
+  {
+    "title": "Gone Girl",
+    "genres": ["Thriller", "Mystery", "Drama"],
+    "runtime": 149,
+    "mood": "Dark",
+    "rating": 8.1
+  },
+  {
+    "title": "Prisoners",
+    "genres": ["Thriller", "Mystery", "Crime"],
+    "runtime": 153,
+    "mood": "Dark",
+    "rating": 8.1
+  },
+  {
+    "title": "The Dark Knight",
+    "genres": ["Action", "Crime", "Drama"],
+    "runtime": 152,
+    "mood": "Intense",
+    "rating": 9.0
+  },
+  {
+    "title": "La La Land",
+    "genres": ["Romance", "Drama", "Comedy"],
+    "runtime": 128,
+    "mood": "Emotional",
+    "rating": 8.0
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "genres": ["Comedy", "Adventure", "Crime"],
+    "runtime": 99,
+    "mood": "Lighthearted",
+    "rating": 8.1
+  },
+  {
+    "title": "Parasite",
+    "genres": ["Thriller", "Drama", "Comedy"],
+    "runtime": 132,
+    "mood": "Dark",
+    "rating": 8.5
+  },
+  {
+    "title": "Whiplash",
+    "genres": ["Drama", "Music"],
+    "runtime": 107,
+    "mood": "Intense",
+    "rating": 8.5
+  },
+  {
+    "title": "Knives Out",
+    "genres": ["Mystery", "Comedy", "Crime"],
+    "runtime": 130,
+    "mood": "Lighthearted",
+    "rating": 7.9
+  },
+  {
+    "title": "Arrival",
+    "genres": ["Sci-Fi", "Drama", "Mystery"],
+    "runtime": 116,
+    "mood": "Thought-provoking",
+    "rating": 7.9
+  },
+  {
+    "title": "Spirited Away",
+    "genres": ["Animation", "Fantasy", "Adventure"],
+    "runtime": 125,
+    "mood": "Heartwarming",
+    "rating": 8.6
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "genres": ["Drama", "Crime"],
+    "runtime": 142,
+    "mood": "Inspiring",
+    "rating": 9.3
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "runtime": 120,
+    "mood": "Intense",
+    "rating": 8.1
+  },
+  {
+    "title": "Her",
+    "genres": ["Romance", "Drama", "Sci-Fi"],
+    "runtime": 126,
+    "mood": "Emotional",
+    "rating": 8.0
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "genres": ["Thriller", "Crime", "Drama"],
+    "runtime": 118,
+    "mood": "Dark",
+    "rating": 8.6
+  },
+  {
+    "title": "Toy Story",
+    "genres": ["Animation", "Comedy", "Adventure"],
+    "runtime": 81,
+    "mood": "Heartwarming",
+    "rating": 8.3
+  },
+  {
+    "title": "The Martian",
+    "genres": ["Sci-Fi", "Adventure", "Drama"],
+    "runtime": 144,
+    "mood": "Inspiring",
+    "rating": 8.0
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "genres": ["Romance", "Drama", "Sci-Fi"],
+    "runtime": 108,
+    "mood": "Emotional",
+    "rating": 8.3
+  },
+  {
+    "title": "Get Out",
+    "genres": ["Thriller", "Mystery", "Horror"],
+    "runtime": 104,
+    "mood": "Suspenseful",
+    "rating": 7.8
+  },
+  {
+    "title": "Paddington 2",
+    "genres": ["Comedy", "Adventure", "Family"],
+    "runtime": 104,
+    "mood": "Heartwarming",
+    "rating": 7.8
+  },
+  {
+    "title": "Coco",
+    "genres": ["Animation", "Adventure", "Family"],
+    "runtime": 105,
+    "mood": "Heartwarming",
+    "rating": 8.4
+  },
+  {
+    "title": "Blade Runner 2049",
+    "genres": ["Sci-Fi", "Drama", "Thriller"],
+    "runtime": 164,
+    "mood": "Thought-provoking",
+    "rating": 8.0
+  },
+  {
+    "title": "Little Miss Sunshine",
+    "genres": ["Comedy", "Drama"],
+    "runtime": 101,
+    "mood": "Heartwarming",
+    "rating": 7.8
+  },
+  {
+    "title": "Zodiac",
+    "genres": ["Thriller", "Mystery", "Crime"],
+    "runtime": 157,
+    "mood": "Dark",
+    "rating": 7.7
+  },
+  {
+    "title": "Before Sunrise",
+    "genres": ["Romance", "Drama"],
+    "runtime": 101,
+    "mood": "Emotional",
+    "rating": 8.1
+  },
+  {
+    "title": "Inside Out",
+    "genres": ["Animation", "Comedy", "Family"],
+    "runtime": 95,
+    "mood": "Heartwarming",
+    "rating": 8.1
+  },
+  {
+    "title": "The Social Network",
+    "genres": ["Drama"],
+    "runtime": 120,
+    "mood": "Thought-provoking",
+    "rating": 7.8
+  },
+  {
+    "title": "The Nice Guys",
+    "genres": ["Comedy", "Crime", "Action"],
+    "runtime": 116,
+    "mood": "Lighthearted",
+    "rating": 7.4
+  },
+  {
+    "title": "Ex Machina",
+    "genres": ["Sci-Fi", "Thriller", "Drama"],
+    "runtime": 108,
+    "mood": "Thought-provoking",
+    "rating": 7.7
+  }
+]
